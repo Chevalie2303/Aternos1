@@ -2,7 +2,7 @@
 
 {
 	"ip":"iqbalviandra.aternos.me",
-	"port": "17675",
+	"port": "25565",
 	"name": "boboserver",
 	"auto-night-skip":"false"
 }
